@@ -1,2 +1,2 @@
 # nlptalks
-"NLPTalks"-Chat app with NLP features
+"NLPTalks"-Chat web-app with NLP features

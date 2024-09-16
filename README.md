@@ -1,2 +1,2 @@
-# nlptalks
-"NLPTalks"-Chat web-app with NLP features
+# ChatterBox
+"ChatterBox"-Chat web-application
